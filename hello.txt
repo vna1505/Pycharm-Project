@@ -1,0 +1,3 @@
+Opening hello.txt
+reading the second line.
+this is the last line

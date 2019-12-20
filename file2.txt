@@ -1,0 +1,2 @@
+This is file2. Also created as part of comparison.
+This is line2 of file2.
